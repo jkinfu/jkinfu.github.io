@@ -12,10 +12,9 @@ body{
 #myLogo{
     display: block;
     position: absolute;
-    top:7rem;
+    top: 7rem;
     bottom:0;
     left: 0;
     right: 0;
     margin: auto;
-    
 }
